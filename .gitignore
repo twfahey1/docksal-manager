@@ -6,3 +6,6 @@
 /tmp
 /yarn.lock
 node_modules
+
+// Ignore the user generated database
+db.json

@@ -28,8 +28,25 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
+* [`dm add [FILE]`](#dm-add-file)
 * [`dm hello [FILE]`](#dm-hello-file)
 * [`dm help [COMMAND]`](#dm-help-command)
+
+## `dm add [FILE]`
+
+describe the command here
+
+```
+USAGE
+  $ dm add [FILE]
+
+OPTIONS
+  -f, --force
+  -h, --help       show CLI help
+  -n, --name=name  name to print
+```
+
+_See code: [src/commands/add.ts](https://github.com/twfahey1/docksal-manager/blob/v0.0.1/src/commands/add.ts)_
 
 ## `dm hello [FILE]`
 
